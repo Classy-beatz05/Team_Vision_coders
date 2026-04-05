@@ -1,8 +1,4 @@
-/**
- * ShopSecure — Target Website (port 8080)
- * A realistic e-commerce backend that serves HTML pages.
- * This is the "victim" that gets attacked, then protected by the proxy.
- */
+
 
 'use strict';
 
