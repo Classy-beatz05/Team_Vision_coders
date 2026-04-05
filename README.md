@@ -1,4 +1,4 @@
-# 🛡️ ORCHATHON — Next-Gen Reverse Proxy Demo
+# 🛡️ ORCHATHON — Next-Gen Reverse Proxy Demo:
 
 > A live, interactive demonstration of a production-grade reverse proxy with WAF, rate limiting, circuit breaking, and real-time security monitoring — built for hackathon judges and recruiters.
 
