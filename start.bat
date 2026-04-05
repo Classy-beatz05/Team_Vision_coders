@@ -43,7 +43,7 @@ echo  │  http://localhost:3000                          │
 echo  │                                                  │
 echo  │  Port Map:                                       │
 echo  │  :3000  Demo Presentation Controller            │
-echo  │  :8080  Target Website (ShopSecure)             │
+echo  │  :             │
 echo  │  :9090  OrchProxy (invisible middleman)         │
 echo  │  :9091  Live Security Dashboard                 │
 echo  └─────────────────────────────────────────────────┘
