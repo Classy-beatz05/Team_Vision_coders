@@ -36,7 +36,7 @@
     "block_command_injection": true,
     "blacklisted_ips": [
       "203.0.113.42",
-      "198.51.100.0"
+      "198.51.100.00"
     ]
   },
   "circuit_breaker": {
