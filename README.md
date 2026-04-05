@@ -51,7 +51,7 @@ http://localhost:3000
 - The **LEFT panel** shows ShopSecure running directly on `:8080`
 - Header displays **⚠ UNPROTECTED**
 
-### Step 2 — Run Attacks WITHOUT the Proxy
+### Step 2 — Run Attacks WITHOUT the Proxy.......
 | Attack | What Happens |
 |--------|-------------|
 | **DDoS Flood** | All 30 requests reach the backend |
